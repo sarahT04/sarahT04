@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning maths.
 - 💬 Ask me about life!
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sarah-tanujaya-b9495a1b4/)
-- ⚡ Fun fact: I listen to Britpop!
+- ⚡ Fun fact: I listen to Britrock!
 
 <!--
 **sarahT04/sarahT04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
