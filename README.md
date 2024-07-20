@@ -1,9 +1,11 @@
-## Hi there 👋
+## Hi there 👋 I'm Sarah.
+
+[![Linkedin Badge](https://img.shields.io/badge/-Sarah%20Tanujaya-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarahT04/)]([https://www.linkedin.com/in/sarahT04/](https://www.linkedin.com/in/sarahT04/))
+[![wakatime](https://wakatime.com/badge/user/3e36885d-d63d-447d-8195-64bc24238a90.svg)](https://wakatime.com/@3e36885d-d63d-447d-8195-64bc24238a90)
 
 - 🔭 I’m currently working on [Pusakawan](https://pusakawan.id/)
 - 🌱 I’m currently learning maths.
 - 💬 Ask me about life!
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sarah-tanujaya-b9495a1b4/)
 - ⚡ Fun fact: I listen to Britrock!
 
 <!--
