@@ -3,10 +3,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Sarah%20Tanujaya-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarahT04/)]([https://www.linkedin.com/in/sarahT04/](https://www.linkedin.com/in/sarahT04/))
 [![wakatime](https://wakatime.com/badge/user/3e36885d-d63d-447d-8195-64bc24238a90.svg)](https://wakatime.com/@3e36885d-d63d-447d-8195-64bc24238a90)
 
-- 🔭 I’m currently working on [Pusakawan](https://pusakawan.id/)
-- 🌱 I’m currently learning maths.
-- 💬 Ask me about life!
-- ⚡ Fun fact: I listen to Britrock!
+I'm a part-time full-stack developer, working remotely on an NGO called [Beneran Indonesia](https://www.instagram.com/beneran.indonesia/). Currently working on [Pusakawan](https://pusakawan.id/) with their Flutter mobile app, Django API, and LMS Web using Next (yes I manage all of them.)
+
+- 🌱 I am an international university student in Wuhan, China 🇨🇳 studying Computer Science!
+- 💬 Ask me about philosophy and literature ;)
+- ⚡ Fun fact: I listen to [Britrock](https://open.spotify.com/user/leaf3gux5gregmbq5uw4jn9gu?si=509d150a87054b37)!
 
 <!--
 **sarahT04/sarahT04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
