@@ -3,9 +3,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Sarah%20Tanujaya-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarahT04/)]([https://www.linkedin.com/in/sarahT04/](https://www.linkedin.com/in/sarahT04/))
 [![wakatime](https://wakatime.com/badge/user/3e36885d-d63d-447d-8195-64bc24238a90.svg)](https://wakatime.com/@3e36885d-d63d-447d-8195-64bc24238a90)
 
-I'm a part-time full-stack developer, part-time student. Currently working remotely on an NGO called [Beneran Indonesia](https://www.instagram.com/beneran.indonesia/) and is the person in charge on [Pusakawan](https://pusakawan.id/) with their Flutter mobile app, Django API, and LMS Web using Next.
+I'm a part-time full-stack developer, part-time student. I like to learn all sorts of things so you will see me everywhere doing anything.
 
-- 🌱 I am an international university student in Wuhan, China 🇨🇳 studying Computer Science!
+- 🌱 I am an Indonesian--international student in Wuhan, China 🇨🇳 studying Computer Science!
+- 🔭 Currently working remotely on an NGO called [Beneran Indonesia](https://www.instagram.com/beneran.indonesia/) and is the person in charge on [Pusakawan](https://pusakawan.id/) with their Flutter mobile app, Django API, and LMS Web using Next.
 - 💬 Ask me about philosophy and literature ;)
 - ⚡ Fun fact: I listen to [Britrock](https://open.spotify.com/user/leaf3gux5gregmbq5uw4jn9gu?si=509d150a87054b37)!
 
